@@ -1,0 +1,12 @@
+
+
+{
+  "form": "Formulario",
+  "name": "Nombre",
+  "age": "Edad",
+  "address": "Dirección",
+  "email": "Correo Electrónico",
+  "phone": "Número de Teléfono",
+  "translateTo": "Traducir al Español",
+  "submit": "Enviar"
+}

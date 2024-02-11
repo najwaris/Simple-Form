@@ -1,0 +1,12 @@
+
+
+{
+  "form": "Borang",
+  "name": "Nama",
+  "age": "Umur",
+  "address": "Alamat",
+  "email": "Alamat E-mail",
+  "phone": "Number Telefon",
+  "translateTo": "Terjemahkan ke",
+  "submit": "Hantar"
+}

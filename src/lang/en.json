@@ -1,0 +1,12 @@
+
+
+{
+  "form": "Form",
+  "name": "Name",
+  "age": "Age",
+  "address": "Address",
+  "email": "Email",
+  "phone": "Phone Number",
+  "translateTo": "Translate to Spanish",
+  "submit": "Submit"
+}
