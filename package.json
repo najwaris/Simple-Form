@@ -2,11 +2,5 @@
   "dependencies": {
     "i18next": "^23.8.2",
     "react-i18next": "^14.0.5"
-  },
-
-  "scripts": {
-    "start": "react-scripts start",
-    "test": "echo \"Error: no test specified\" && exit 1"
   }
-  
 }
